@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, soy Rubert Gonzalez</h1>
 <h3 align="center">Un desarrollador Frontend apasionado por la programación</h3>
 
-<h4>Cuenta secundaria de [@RubertG](https://github.com/RubertG)</h4>
+<h4>Cuenta secundaria de <span>[@RubertG](https://github.com/RubertG)</span></h4>
 
 - 👨‍💻 Algunos de mis proyectos están disponibles en [rubertweb.dev](https://rubertweb.dev)
 
